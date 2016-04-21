@@ -45,7 +45,7 @@ So REST will be crazy expensive in real projects, and really not the way to go.
 ## Images
 And here's an image of the devices - Particle WiFi/2g/3g and the Moteino LoRa- in action:
 <a href="battery_showdown.png" target="blank">
-  <img href="public/battery_showdown.png" src="pubic/battery_showdown.png" width="25%">
+  <img href="https://github.com/lukastheiler/IoT-devices-battery-test/blob/master/public/battery_showdown.png?raw=true" src="https://github.com/lukastheiler/IoT-devices-battery-test/blob/master/public/battery_showdown.png?raw=true" width="25%">
 </a>
 
 More tests will follow! If you want to know more, disuss the results, drop me a line or open an issue in this repository.
