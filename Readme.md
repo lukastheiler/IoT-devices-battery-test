@@ -46,7 +46,7 @@ So REST will be crazy expensive in real projects, and really not the way to go.
 
 ## Other links
 
-* [Moteino TTN Walkthrough]("https://github.com/lukastheiler/ttn_monteino")
+* [Moteino TTN Walkthrough](https://github.com/lukastheiler/ttn_monteino)
 
 ## Images
 And here's an image of the devices - Particle WiFi/2g/3g and the Moteino LoRa- in action:
