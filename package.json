@@ -1,0 +1,21 @@
+{
+  "name": "particle-observer",
+  "version": "1.0.0",
+  "description": "Project to figure out how long the battery of my iot devices last.",
+  "main": "particle-observer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukastheiler/particle-observer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lukastheiler/particle-observer/issues"
+  },
+  "homepage": "https://github.com/lukastheiler/particle-observer#readme",
+  "dependencies": {}
+}
