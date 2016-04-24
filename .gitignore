@@ -2,7 +2,8 @@
 programs
 settings.json
 mup.json
-client
 node_modules
 packages
 server
+client
+lib
